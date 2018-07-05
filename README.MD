@@ -4,4 +4,4 @@
 •	Soln1: To compare the sum of every possible pair in the given array with the target sum.Time complexity: O(n2).<br/>
 •	Soln2: For each x in the given array find t-x in the array via binary search.Time complexity :O(nlogn).<br/>
 •	Soln3: For each x in the given array lookup t-x in the array via HashTable.Time complexity :O(n).<br/>	
-Aim: To get familiar with JAVA programming for building desktop applications using Netbeans<br/>
+
